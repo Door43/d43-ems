@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ems:home|Door43 (ems)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ems|d43-ems repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ems/archive/master.zip|d43-ems.zip]]
+
+**Recent Changes**
+{{changes>ns = ems}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ems|Ethnologue data]]
+
